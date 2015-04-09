@@ -1,0 +1,38 @@
+{
+  "jurisdiction": "US-CA",
+  "provision": [
+    {
+      "subdivision": "code",
+      "number": "Corporations Code"
+    },
+    {
+      "subdivision": "title",
+      "number": "1"
+    },
+    {
+      "subdivision": "division",
+      "number": "1"
+    },
+    {
+      "subdivision": "chapter",
+      "number": "1"
+    },
+    {
+      "subdivision": "section",
+      "number": "100"
+    }
+  ],
+  "content": [
+    {
+      "number": "(a)",
+      "content": "This division shall be known and may be cited as the General Corporation Law."
+    },
+    {
+      "number": "(b)",
+      "content": "This title of the Corporations Code, or any division, part, chapter, article or section thereof, may at any time be amended or repealed."
+    }
+  ],
+  "history": [
+    "Repealed and added by Stats. 1975, Ch. 682."
+  ]
+}

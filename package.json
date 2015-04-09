@@ -1,0 +1,21 @@
+{
+  "name": "california-general-corporation-law",
+  "version": "0.0.0-prerelease",
+  "devDependencies": {
+    "chai": "^2.1.0",
+    "glob": "^4.4.0",
+    "jscs": "^1.11.3",
+    "jshint": "^2.6.0",
+    "json": "^9.0.3",
+    "jsonschema": "^1.0.0",
+    "mocha": "^2.1.0",
+    "romanize": "^0.1.0"
+  },
+  "scripts": {
+    "build": "make",
+    "lint": "jscs build test && jshint build test",
+    "pre-commit": "npm run lint && mocha && npm run build",
+    "test": "mocha",
+    "travis-ci": "npm run pre-commit"
+  }
+}
