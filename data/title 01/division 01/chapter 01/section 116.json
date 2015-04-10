@@ -1,0 +1,34 @@
+{
+  "jurisdiction": "US-CA",
+  "provision": [
+    {
+      "subdivision": "code",
+      "number": "Corporations Code"
+    },
+    {
+      "subdivision": "title",
+      "number": "1"
+    },
+    {
+      "subdivision": "division",
+      "number": "1"
+    },
+    {
+      "subdivision": "chapter",
+      "number": "1"
+    },
+    {
+      "subdivision": "section",
+      "number": "116"
+    }
+  ],
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Nothing contained in this division modifies the provisions of subdivision (h) of Section 25102 or the conditions provided therein to the availability of an exemption under that subdivision."
+    }
+  ],
+  "history": [
+    "Repealed and added by Stats. 1975, Ch. 682."
+  ]
+}

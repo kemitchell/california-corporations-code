@@ -1,0 +1,34 @@
+{
+  "jurisdiction": "US-CA",
+  "provision": [
+    {
+      "subdivision": "code",
+      "number": "Corporations Code"
+    },
+    {
+      "subdivision": "title",
+      "number": "1"
+    },
+    {
+      "subdivision": "division",
+      "number": "1"
+    },
+    {
+      "subdivision": "chapter",
+      "number": "1"
+    },
+    {
+      "subdivision": "section",
+      "number": "111"
+    }
+  ],
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "All references in this division to the voting of shares include the voting of other securities given voting rights in the articles pursuant to subdivision (a)(7) of Section 204."
+    }
+  ],
+  "history": [
+    "Repealed and added by Stats. 1975, Ch. 682."
+  ]
+}

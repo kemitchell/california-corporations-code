@@ -1,0 +1,34 @@
+{
+  "jurisdiction": "US-CA",
+  "provision": [
+    {
+      "subdivision": "code",
+      "number": "Corporations Code"
+    },
+    {
+      "subdivision": "title",
+      "number": "1"
+    },
+    {
+      "subdivision": "division",
+      "number": "1"
+    },
+    {
+      "subdivision": "chapter",
+      "number": "1"
+    },
+    {
+      "subdivision": "section",
+      "number": "159"
+    }
+  ],
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "“Common shares” means shares which have no preference over any other shares with respect to distribution of assets on liquidation or with respect to payment of dividends."
+    }
+  ],
+  "history": [
+    "Added by Stats. 1975, Ch. 682."
+  ]
+}

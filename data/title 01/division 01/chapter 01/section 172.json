@@ -1,0 +1,34 @@
+{
+  "jurisdiction": "US-CA",
+  "provision": [
+    {
+      "subdivision": "code",
+      "number": "Corporations Code"
+    },
+    {
+      "subdivision": "title",
+      "number": "1"
+    },
+    {
+      "subdivision": "division",
+      "number": "1"
+    },
+    {
+      "subdivision": "chapter",
+      "number": "1"
+    },
+    {
+      "subdivision": "section",
+      "number": "172"
+    }
+  ],
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "“Liquidation price” or “liquidation preference” means amounts payable on shares of any class upon voluntary or involuntary dissolution, winding up or distribution of the entire assets of the corporation, including any cumulative dividends accrued and unpaid, in priority to shares of another class or classes."
+    }
+  ],
+  "history": [
+    "Added by Stats. 1975, Ch. 682."
+  ]
+}

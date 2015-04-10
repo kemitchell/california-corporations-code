@@ -1,0 +1,34 @@
+{
+  "jurisdiction": "US-CA",
+  "provision": [
+    {
+      "subdivision": "code",
+      "number": "Corporations Code"
+    },
+    {
+      "subdivision": "title",
+      "number": "1"
+    },
+    {
+      "subdivision": "division",
+      "number": "1"
+    },
+    {
+      "subdivision": "chapter",
+      "number": "1"
+    },
+    {
+      "subdivision": "section",
+      "number": "165.5"
+    }
+  ],
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "“Disappearing limited partnership” means a constituent limited partnership which is not the surviving limited partnership."
+    }
+  ],
+  "history": [
+    "Added by Stats. 1993, Ch. 543, Sec. 3. Effective January 1, 1994."
+  ]
+}

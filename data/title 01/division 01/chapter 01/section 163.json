@@ -1,0 +1,54 @@
+{
+  "jurisdiction": "US-CA",
+  "provision": [
+    {
+      "subdivision": "code",
+      "number": "Corporations Code"
+    },
+    {
+      "subdivision": "title",
+      "number": "1"
+    },
+    {
+      "subdivision": "division",
+      "number": "1"
+    },
+    {
+      "subdivision": "chapter",
+      "number": "1"
+    },
+    {
+      "subdivision": "section",
+      "number": "163"
+    }
+  ],
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "“Corporation subject to the Banking Law” (Division 1.1 (commencing with Section 1000) of the Financial Code) means:"
+    },
+    {
+      "number": "(a)",
+      "content": "Any corporation which, with the approval of the Commissioner of Business Oversight, is incorporated for the purpose of engaging in, or which is authorized by the Commissioner of Business Oversight to engage in, the commercial banking business under Division 1.1 (commencing with Section 1000) of the Financial Code."
+    },
+    {
+      "number": "(b)",
+      "content": "Any corporation which, with the approval of the Commissioner of Business Oversight, is incorporated for the purpose of engaging in, or which is authorized by the Commissioner of Business Oversight to engage in, the industrial banking business under Division 1.1 (commencing with Section 1000) of the Financial Code."
+    },
+    {
+      "number": "(c)",
+      "content": "Any corporation (other than a corporation described in subdivision (d)) which, with the approval of the Commissioner of Business Oversight, is incorporated for the purpose of engaging in, or which is authorized by the Commissioner of Business Oversight to engage in, the trust business under Division 1.1 (commencing with Section 1000) of the Financial Code."
+    },
+    {
+      "number": "(d)",
+      "content": "Any corporation which is authorized by the Commissioner of Business Oversight and the Commissioner of Insurance to maintain a title insurance department to engage in title insurance business and a trust department to engage in trust business; or"
+    },
+    {
+      "number": "(e)",
+      "content": "Any corporation which, with the approval of the Commissioner of Business Oversight, is incorporated for the purpose of engaging in, or which is authorized by the Commissioner of Business Oversight to engage in, business under Article 1 (commencing with Section 1850), Chapter 21, Division 1.1 of the Financial Code."
+    }
+  ],
+  "history": [
+    "Amended by Stats. 2014, Ch. 401, Sec. 16. Effective January 1, 2015."
+  ]
+}

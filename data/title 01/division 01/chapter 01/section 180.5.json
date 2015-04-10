@@ -1,0 +1,34 @@
+{
+  "jurisdiction": "US-CA",
+  "provision": [
+    {
+      "subdivision": "code",
+      "number": "Corporations Code"
+    },
+    {
+      "subdivision": "title",
+      "number": "1"
+    },
+    {
+      "subdivision": "division",
+      "number": "1"
+    },
+    {
+      "subdivision": "chapter",
+      "number": "1"
+    },
+    {
+      "subdivision": "section",
+      "number": "180.5"
+    }
+  ],
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "“Redomestication” means the transfer of an insurer’s place of incorporation from another state to this state or from this state to another state."
+    }
+  ],
+  "history": [
+    "Added by Stats. 1995, Ch. 702, Sec. 2. Effective January 1, 1996."
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "jurisdiction": "US-CA",
+  "provision": [
+    {
+      "subdivision": "code",
+      "number": "Corporations Code"
+    },
+    {
+      "subdivision": "title",
+      "number": "1"
+    },
+    {
+      "subdivision": "division",
+      "number": "1"
+    },
+    {
+      "subdivision": "chapter",
+      "number": "1"
+    },
+    {
+      "subdivision": "section",
+      "number": "173"
+    }
+  ],
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "“Officers’ certificate” means a certificate signed and verified by the chairman of the board, the president or any vice president and by the secretary, the chief financial officer, the treasurer or any assistant secretary or assistant treasurer."
+    }
+  ],
+  "history": [
+    "Added by Stats. 1975, Ch. 682."
+  ]
+}

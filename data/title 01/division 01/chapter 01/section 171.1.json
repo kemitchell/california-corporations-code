@@ -1,0 +1,34 @@
+{
+  "jurisdiction": "US-CA",
+  "provision": [
+    {
+      "subdivision": "code",
+      "number": "Corporations Code"
+    },
+    {
+      "subdivision": "title",
+      "number": "1"
+    },
+    {
+      "subdivision": "division",
+      "number": "1"
+    },
+    {
+      "subdivision": "chapter",
+      "number": "1"
+    },
+    {
+      "subdivision": "section",
+      "number": "171.1"
+    }
+  ],
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "“Initial transaction statement” means a statement signed by or on behalf of the issuer sent to the new registered owner or registered pledgee, and “written statements,” when used in connection with uncertificated securities, means the written statements that are periodically, or at the request of the registered owner or registered pledgee, sent by the issuer to the registered owner or registered pledgee describing the issue of which the uncertificated security is a part."
+    }
+  ],
+  "history": [
+    "Amended by Stats. 1996, Ch. 497, Sec. 27. Effective January 1, 1997."
+  ]
+}

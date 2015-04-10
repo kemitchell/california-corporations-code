@@ -1,0 +1,3 @@
+# Section 171.1
+
+- “Initial transaction statement” means a statement signed by or on behalf of the issuer sent to the new registered owner or registered pledgee, and “written statements,” when used in connection with uncertificated securities, means the written statements that are periodically, or at the request of the registered owner or registered pledgee, sent by the issuer to the registered owner or registered pledgee describing the issue of which the uncertificated security is a part.

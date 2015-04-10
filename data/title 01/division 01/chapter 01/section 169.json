@@ -1,0 +1,34 @@
+{
+  "jurisdiction": "US-CA",
+  "provision": [
+    {
+      "subdivision": "code",
+      "number": "Corporations Code"
+    },
+    {
+      "subdivision": "title",
+      "number": "1"
+    },
+    {
+      "subdivision": "division",
+      "number": "1"
+    },
+    {
+      "subdivision": "chapter",
+      "number": "1"
+    },
+    {
+      "subdivision": "section",
+      "number": "169"
+    }
+  ],
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "“Filed”, unless otherwise expressly provided, means filed in the office of the Secretary of State."
+    }
+  ],
+  "history": [
+    "Added by Stats. 1975, Ch. 682."
+  ]
+}

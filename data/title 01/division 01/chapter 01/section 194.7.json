@@ -1,0 +1,34 @@
+{
+  "jurisdiction": "US-CA",
+  "provision": [
+    {
+      "subdivision": "code",
+      "number": "Corporations Code"
+    },
+    {
+      "subdivision": "title",
+      "number": "1"
+    },
+    {
+      "subdivision": "division",
+      "number": "1"
+    },
+    {
+      "subdivision": "chapter",
+      "number": "1"
+    },
+    {
+      "subdivision": "section",
+      "number": "194.7"
+    }
+  ],
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "“Voting shift” means a change, pursuant to or by operation of a provision of the articles, in the relative rights of the holders of one or more classes or series of shares, voting as one or more separate classes or series, to elect one or more directors."
+    }
+  ],
+  "history": [
+    "Added by Stats. 1988, Ch. 495, Sec. 1."
+  ]
+}

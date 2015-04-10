@@ -1,0 +1,34 @@
+{
+  "jurisdiction": "US-CA",
+  "provision": [
+    {
+      "subdivision": "code",
+      "number": "Corporations Code"
+    },
+    {
+      "subdivision": "title",
+      "number": "1"
+    },
+    {
+      "subdivision": "division",
+      "number": "1"
+    },
+    {
+      "subdivision": "chapter",
+      "number": "1"
+    },
+    {
+      "subdivision": "section",
+      "number": "164"
+    }
+  ],
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "“Directors” means natural persons designated in the articles as such or elected by the incorporators and natural persons designated, elected or appointed by any other name or title to act as directors, and their successors."
+    }
+  ],
+  "history": [
+    "Amended by Stats. 1976, Ch. 641."
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "jurisdiction": "US-CA",
+  "provision": [
+    {
+      "subdivision": "code",
+      "number": "Corporations Code"
+    },
+    {
+      "subdivision": "title",
+      "number": "1"
+    },
+    {
+      "subdivision": "division",
+      "number": "1"
+    },
+    {
+      "subdivision": "chapter",
+      "number": "1"
+    },
+    {
+      "subdivision": "section",
+      "number": "186"
+    }
+  ],
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "“Shareholders’ agreement” means a written agreement among all of the shareholders of a close corporation, or if a close corporation has only one shareholder between such shareholder and the corporation, as authorized by subdivision (b) of Section 300."
+    }
+  ],
+  "history": [
+    "Amended by Stats. 1976, Ch. 641."
+  ]
+}

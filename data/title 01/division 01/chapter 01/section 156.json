@@ -1,0 +1,34 @@
+{
+  "jurisdiction": "US-CA",
+  "provision": [
+    {
+      "subdivision": "code",
+      "number": "Corporations Code"
+    },
+    {
+      "subdivision": "title",
+      "number": "1"
+    },
+    {
+      "subdivision": "division",
+      "number": "1"
+    },
+    {
+      "subdivision": "chapter",
+      "number": "1"
+    },
+    {
+      "subdivision": "section",
+      "number": "156"
+    }
+  ],
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "“Certificate of determination” means a certificate executed and filed pursuant to Section 401."
+    }
+  ],
+  "history": [
+    "Added by Stats. 1975, Ch. 682."
+  ]
+}

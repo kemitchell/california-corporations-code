@@ -1,0 +1,34 @@
+{
+  "jurisdiction": "US-CA",
+  "provision": [
+    {
+      "subdivision": "code",
+      "number": "Corporations Code"
+    },
+    {
+      "subdivision": "title",
+      "number": "1"
+    },
+    {
+      "subdivision": "division",
+      "number": "1"
+    },
+    {
+      "subdivision": "chapter",
+      "number": "1"
+    },
+    {
+      "subdivision": "section",
+      "number": "113"
+    }
+  ],
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Any reference in this division to mailing means first-class mail, postage prepaid, unless registered or some other form of mail is specified or permitted. Registered mail includes certified mail."
+    }
+  ],
+  "history": [
+    "Amended by Stats. 1978, Ch. 370."
+  ]
+}

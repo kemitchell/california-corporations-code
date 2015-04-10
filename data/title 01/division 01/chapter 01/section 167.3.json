@@ -1,0 +1,34 @@
+{
+  "jurisdiction": "US-CA",
+  "provision": [
+    {
+      "subdivision": "code",
+      "number": "Corporations Code"
+    },
+    {
+      "subdivision": "title",
+      "number": "1"
+    },
+    {
+      "subdivision": "division",
+      "number": "1"
+    },
+    {
+      "subdivision": "chapter",
+      "number": "1"
+    },
+    {
+      "subdivision": "section",
+      "number": "167.3"
+    }
+  ],
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "“Domestic limited liability company” means a limited liability company as defined in subdivision (t) of Section 17000."
+    }
+  ],
+  "history": [
+    "Added by Stats. 1994, Ch. 1200, Sec. 11. Effective September 30, 1994."
+  ]
+}

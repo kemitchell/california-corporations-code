@@ -1,0 +1,34 @@
+{
+  "jurisdiction": "US-CA",
+  "provision": [
+    {
+      "subdivision": "code",
+      "number": "Corporations Code"
+    },
+    {
+      "subdivision": "title",
+      "number": "1"
+    },
+    {
+      "subdivision": "division",
+      "number": "1"
+    },
+    {
+      "subdivision": "chapter",
+      "number": "1"
+    },
+    {
+      "subdivision": "section",
+      "number": "117"
+    }
+  ],
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Any requirement in this division for a vote of each class of outstanding shares means such a vote regardless of limitations or restrictions upon the voting rights thereof, unless expressly limited to voting shares."
+    }
+  ],
+  "history": [
+    "Added by Stats. 1976, Ch. 641."
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "jurisdiction": "US-CA",
+  "provision": [
+    {
+      "subdivision": "code",
+      "number": "Corporations Code"
+    },
+    {
+      "subdivision": "title",
+      "number": "1"
+    },
+    {
+      "subdivision": "division",
+      "number": "1"
+    },
+    {
+      "subdivision": "chapter",
+      "number": "1"
+    },
+    {
+      "subdivision": "section",
+      "number": "190"
+    }
+  ],
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "“Surviving corporation” means a corporation into which one or more other corporations or one or more other business entities are merged."
+    }
+  ],
+  "history": [
+    "Amended by Stats. 1994, Ch. 1200, Sec. 18. Effective September 30, 1994."
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "jurisdiction": "US-CA",
+  "provision": [
+    {
+      "subdivision": "code",
+      "number": "Corporations Code"
+    },
+    {
+      "subdivision": "title",
+      "number": "1"
+    },
+    {
+      "subdivision": "division",
+      "number": "1"
+    },
+    {
+      "subdivision": "chapter",
+      "number": "1"
+    },
+    {
+      "subdivision": "section",
+      "number": "180"
+    }
+  ],
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "“Redemption price” means the amount or amounts (in cash, property or securities, or any combination thereof) payable on shares of any class or series upon the redemption of the shares. Unless otherwise expressly provided, the redemption price is payable in cash."
+    }
+  ],
+  "history": [
+    "Added by Stats. 1975, Ch. 682."
+  ]
+}

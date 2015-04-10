@@ -1,0 +1,46 @@
+{
+  "jurisdiction": "US-CA",
+  "provision": [
+    {
+      "subdivision": "code",
+      "number": "Corporations Code"
+    },
+    {
+      "subdivision": "title",
+      "number": "1"
+    },
+    {
+      "subdivision": "division",
+      "number": "1"
+    },
+    {
+      "subdivision": "chapter",
+      "number": "1"
+    },
+    {
+      "subdivision": "section",
+      "number": "193"
+    }
+  ],
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "“Verified” means that the statements contained in a certificate or other document are declared to be true of the own knowledge of the persons executing the same in either:"
+    },
+    {
+      "number": "(a)",
+      "content": "An affidavit signed by them under oath before an officer authorized by the laws of this state or of the place where it is executed to administer oaths, or"
+    },
+    {
+      "number": "(b)",
+      "content": "A declaration in writing executed by them “under penalty of perjury” and stating the date and place (whether within or without this state) of execution."
+    },
+    {
+      "type": "paragraph",
+      "text": "Any affidavit sworn to without this state before a notary public or a judge or clerk of a court of record having an official seal need not be further authenticated."
+    }
+  ],
+  "history": [
+    "Added by Stats. 1975, Ch. 682."
+  ]
+}

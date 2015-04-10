@@ -1,0 +1,34 @@
+{
+  "jurisdiction": "US-CA",
+  "provision": [
+    {
+      "subdivision": "code",
+      "number": "Corporations Code"
+    },
+    {
+      "subdivision": "title",
+      "number": "1"
+    },
+    {
+      "subdivision": "division",
+      "number": "1"
+    },
+    {
+      "subdivision": "chapter",
+      "number": "1"
+    },
+    {
+      "subdivision": "section",
+      "number": "194"
+    }
+  ],
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "“Vote” includes authorization by written consent, subject to the provisions of subdivision (b) of Section 307 and subdivision (d) of Section 603."
+    }
+  ],
+  "history": [
+    "Repealed and added by Stats. 1993, Ch. 128, Sec. 3. Effective January 1, 1994."
+  ]
+}

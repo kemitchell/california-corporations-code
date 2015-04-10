@@ -1,0 +1,34 @@
+{
+  "jurisdiction": "US-CA",
+  "provision": [
+    {
+      "subdivision": "code",
+      "number": "Corporations Code"
+    },
+    {
+      "subdivision": "title",
+      "number": "1"
+    },
+    {
+      "subdivision": "division",
+      "number": "1"
+    },
+    {
+      "subdivision": "chapter",
+      "number": "1"
+    },
+    {
+      "subdivision": "section",
+      "number": "107"
+    }
+  ],
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "No corporation, social purpose corporation, association, or individual shall issue or put in circulation, as money, anything but the lawful money of the United States."
+    }
+  ],
+  "history": [
+    "Amended by Stats. 2014, Ch. 694, Sec. 1. Effective January 1, 2015."
+  ]
+}

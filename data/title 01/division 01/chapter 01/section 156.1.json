@@ -1,0 +1,34 @@
+{
+  "jurisdiction": "US-CA",
+  "provision": [
+    {
+      "subdivision": "code",
+      "number": "Corporations Code"
+    },
+    {
+      "subdivision": "title",
+      "number": "1"
+    },
+    {
+      "subdivision": "division",
+      "number": "1"
+    },
+    {
+      "subdivision": "chapter",
+      "number": "1"
+    },
+    {
+      "subdivision": "section",
+      "number": "156.1"
+    }
+  ],
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "“Certificated security” means a share (Section 184), as defined in paragraph (4) of subdivision (a) of Section 8102 of, or an obligation of the issuer as described in paragraph (15) of subdivision (a) of, the Commercial Code."
+    }
+  ],
+  "history": [
+    "Amended by Stats. 1996, Ch. 497, Sec. 25. Effective January 1, 1997."
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "jurisdiction": "US-CA",
+  "provision": [
+    {
+      "subdivision": "code",
+      "number": "Corporations Code"
+    },
+    {
+      "subdivision": "title",
+      "number": "1"
+    },
+    {
+      "subdivision": "division",
+      "number": "1"
+    },
+    {
+      "subdivision": "chapter",
+      "number": "1"
+    },
+    {
+      "subdivision": "section",
+      "number": "161.5"
+    }
+  ],
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "“Constituent limited partnership” means a limited partnership which is merged with one or more corporations and includes the surviving limited partnership."
+    }
+  ],
+  "history": [
+    "Added by Stats. 1993, Ch. 543, Sec. 2. Effective January 1, 1994."
+  ]
+}

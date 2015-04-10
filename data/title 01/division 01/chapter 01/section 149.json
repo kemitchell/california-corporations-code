@@ -1,0 +1,46 @@
+{
+  "jurisdiction": "US-CA",
+  "provision": [
+    {
+      "subdivision": "code",
+      "number": "Corporations Code"
+    },
+    {
+      "subdivision": "title",
+      "number": "1"
+    },
+    {
+      "subdivision": "division",
+      "number": "1"
+    },
+    {
+      "subdivision": "chapter",
+      "number": "1"
+    },
+    {
+      "subdivision": "section",
+      "number": "149"
+    }
+  ],
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "“Acknowledged” means that an instrument is either:"
+    },
+    {
+      "number": "(a)",
+      "content": "Formally acknowledged as provided in Article 3 (commencing with Section 1180) of Chapter 4 of Title 4 of Part 4 of Division 2 of the Civil Code, or"
+    },
+    {
+      "number": "(b)",
+      "content": "Accompanied by a declaration in writing signed by the persons executing the same that they are such persons and that the instrument is the act and deed of the person or persons executing the same."
+    },
+    {
+      "type": "paragraph",
+      "text": "Any certificate of acknowledgment taken without this state before a notary public or a judge or clerk of a court of record having an official seal need not be further authenticated."
+    }
+  ],
+  "history": [
+    "Amended by Stats. 1976, Ch. 641."
+  ]
+}

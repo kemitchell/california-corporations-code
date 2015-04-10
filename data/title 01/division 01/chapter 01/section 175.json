@@ -1,0 +1,34 @@
+{
+  "jurisdiction": "US-CA",
+  "provision": [
+    {
+      "subdivision": "code",
+      "number": "Corporations Code"
+    },
+    {
+      "subdivision": "title",
+      "number": "1"
+    },
+    {
+      "subdivision": "division",
+      "number": "1"
+    },
+    {
+      "subdivision": "chapter",
+      "number": "1"
+    },
+    {
+      "subdivision": "section",
+      "number": "175"
+    }
+  ],
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Except as used in Sections 1001, 1101, and 1113, a “parent” of a specified corporation is an affiliate in control (Section 160(a)) of that corporation directly or indirectly through one or more intermediaries. In Sections 1001, 1101, and 1113, “parent” means a person in control (Section 160(b)) of a domestic corporation, a foreign corporation, or an other business entity."
+    }
+  ],
+  "history": [
+    "Amended by Stats. 1999, Ch. 437, Sec. 4. Effective January 1, 2000."
+  ]
+}

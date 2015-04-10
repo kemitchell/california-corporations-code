@@ -1,0 +1,34 @@
+{
+  "jurisdiction": "US-CA",
+  "provision": [
+    {
+      "subdivision": "code",
+      "number": "Corporations Code"
+    },
+    {
+      "subdivision": "title",
+      "number": "1"
+    },
+    {
+      "subdivision": "division",
+      "number": "1"
+    },
+    {
+      "subdivision": "chapter",
+      "number": "1"
+    },
+    {
+      "subdivision": "section",
+      "number": "190.7"
+    }
+  ],
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "“Surviving other business entity” means an other business entity into which one or more other business entities or one or more corporations are merged."
+    }
+  ],
+  "history": [
+    "Added by Stats. 1994, Ch. 1200, Sec. 19. Effective September 30, 1994."
+  ]
+}

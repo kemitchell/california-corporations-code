@@ -1,0 +1,34 @@
+{
+  "jurisdiction": "US-CA",
+  "provision": [
+    {
+      "subdivision": "code",
+      "number": "Corporations Code"
+    },
+    {
+      "subdivision": "title",
+      "number": "1"
+    },
+    {
+      "subdivision": "division",
+      "number": "1"
+    },
+    {
+      "subdivision": "chapter",
+      "number": "1"
+    },
+    {
+      "subdivision": "section",
+      "number": "152"
+    }
+  ],
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "“Approved by (or approval of) the outstanding shares” means approved by the affirmative vote of a majority of the outstanding shares entitled to vote. Such approval shall include the affirmative vote of a majority of the outstanding shares of each class or series entitled, by any provision of the articles or of this division, to vote as a class or series on the subject matter being voted upon and shall also include the affirmative vote of such greater proportion (including all) of the outstanding shares of any class or series if such greater proportion is required by the articles or this division."
+    }
+  ],
+  "history": [
+    "Amended by Stats. 1976, Ch. 641."
+  ]
+}

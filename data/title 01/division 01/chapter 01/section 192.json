@@ -1,0 +1,34 @@
+{
+  "jurisdiction": "US-CA",
+  "provision": [
+    {
+      "subdivision": "code",
+      "number": "Corporations Code"
+    },
+    {
+      "subdivision": "title",
+      "number": "1"
+    },
+    {
+      "subdivision": "division",
+      "number": "1"
+    },
+    {
+      "subdivision": "chapter",
+      "number": "1"
+    },
+    {
+      "subdivision": "section",
+      "number": "192"
+    }
+  ],
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "“Vacancy” when used with respect to the board means any authorized position of director which is not then filled by a duly elected director, whether caused by death, resignation, removal, change in the authorized number of directors (by the board or the shareholders) or otherwise."
+    }
+  ],
+  "history": [
+    "Amended by Stats. 1976, Ch. 641."
+  ]
+}

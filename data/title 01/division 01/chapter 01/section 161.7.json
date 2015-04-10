@@ -1,0 +1,34 @@
+{
+  "jurisdiction": "US-CA",
+  "provision": [
+    {
+      "subdivision": "code",
+      "number": "Corporations Code"
+    },
+    {
+      "subdivision": "title",
+      "number": "1"
+    },
+    {
+      "subdivision": "division",
+      "number": "1"
+    },
+    {
+      "subdivision": "chapter",
+      "number": "1"
+    },
+    {
+      "subdivision": "section",
+      "number": "161.7"
+    }
+  ],
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "“Constituent other business entity” means an other business entity that is merged with or into one or more corporations and includes the surviving other business entity."
+    }
+  ],
+  "history": [
+    "Added by Stats. 1994, Ch. 1200, Sec. 10. Effective September 30, 1994."
+  ]
+}

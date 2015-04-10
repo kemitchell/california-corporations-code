@@ -1,0 +1,3 @@
+# Section 183
+
+- “Series” of shares means those shares within a class which have the same rights, preferences, privileges and restrictions but which differ in one or more rights, preferences, privileges or restrictions from other shares within the same class. Certificated securities and uncertificated securities do not constitute different series if the only difference is certificated and uncertificated status.

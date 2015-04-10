@@ -1,0 +1,34 @@
+{
+  "jurisdiction": "US-CA",
+  "provision": [
+    {
+      "subdivision": "code",
+      "number": "Corporations Code"
+    },
+    {
+      "subdivision": "title",
+      "number": "1"
+    },
+    {
+      "subdivision": "division",
+      "number": "1"
+    },
+    {
+      "subdivision": "chapter",
+      "number": "1"
+    },
+    {
+      "subdivision": "section",
+      "number": "153"
+    }
+  ],
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "“Approved by (or approval of) the shareholders” means approved or ratified by the affirmative vote of a majority of the shares represented and voting at a duly held meeting at which a quorum is present (which shares voting affirmatively also constitute at least a majority of the required quorum) or by the written consent of shareholders (Section 603) or by the affirmative vote or written consent of such greater proportion (including all) of the shares of any class or series as may be provided in the articles or in this division for all or any specified shareholder action."
+    }
+  ],
+  "history": [
+    "Amended by Stats. 1977, Ch. 235."
+  ]
+}

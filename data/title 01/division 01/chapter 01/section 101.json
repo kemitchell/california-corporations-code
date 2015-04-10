@@ -1,0 +1,34 @@
+{
+  "jurisdiction": "US-CA",
+  "provision": [
+    {
+      "subdivision": "code",
+      "number": "Corporations Code"
+    },
+    {
+      "subdivision": "title",
+      "number": "1"
+    },
+    {
+      "subdivision": "division",
+      "number": "1"
+    },
+    {
+      "subdivision": "chapter",
+      "number": "1"
+    },
+    {
+      "subdivision": "section",
+      "number": "101"
+    }
+  ],
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Unless the provision or the context otherwise requires, the general provisions and definitions set forth in this chapter govern the construction of this division."
+    }
+  ],
+  "history": [
+    "Repealed and added by Stats. 1975, Ch. 682."
+  ]
+}

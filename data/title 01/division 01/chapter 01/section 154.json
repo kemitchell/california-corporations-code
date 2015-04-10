@@ -1,0 +1,34 @@
+{
+  "jurisdiction": "US-CA",
+  "provision": [
+    {
+      "subdivision": "code",
+      "number": "Corporations Code"
+    },
+    {
+      "subdivision": "title",
+      "number": "1"
+    },
+    {
+      "subdivision": "division",
+      "number": "1"
+    },
+    {
+      "subdivision": "chapter",
+      "number": "1"
+    },
+    {
+      "subdivision": "section",
+      "number": "154"
+    }
+  ],
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "“Articles” includes the articles of incorporation, amendments thereto, amended articles, restated articles, certificate of incorporation and certificates of determination. All references in this division to a vote required by the “articles” include, in the case of a close corporation (Section 158), any vote required by a shareholders’ agreement."
+    }
+  ],
+  "history": [
+    "Amended by Stats. 1976, Ch. 641."
+  ]
+}

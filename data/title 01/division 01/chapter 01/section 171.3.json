@@ -1,0 +1,34 @@
+{
+  "jurisdiction": "US-CA",
+  "provision": [
+    {
+      "subdivision": "code",
+      "number": "Corporations Code"
+    },
+    {
+      "subdivision": "title",
+      "number": "1"
+    },
+    {
+      "subdivision": "division",
+      "number": "1"
+    },
+    {
+      "subdivision": "chapter",
+      "number": "1"
+    },
+    {
+      "subdivision": "section",
+      "number": "171.3"
+    }
+  ],
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "“Limited liability company” means a limited liability company as defined in subdivision (k) of Section 17701.02."
+    }
+  ],
+  "history": [
+    "Amended by Stats. 2012, Ch. 419, Sec. 6. Effective January 1, 2013. Operative January 1, 2014, by Sec. 32 of Ch. 419."
+  ]
+}

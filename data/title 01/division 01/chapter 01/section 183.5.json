@@ -1,0 +1,34 @@
+{
+  "jurisdiction": "US-CA",
+  "provision": [
+    {
+      "subdivision": "code",
+      "number": "Corporations Code"
+    },
+    {
+      "subdivision": "title",
+      "number": "1"
+    },
+    {
+      "subdivision": "division",
+      "number": "1"
+    },
+    {
+      "subdivision": "chapter",
+      "number": "1"
+    },
+    {
+      "subdivision": "section",
+      "number": "183.5"
+    }
+  ],
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "“Share exchange tender offer” means any acquisition by one corporation in exchange in whole or in part for its equity securities (or the equity securities of a corporation which is in control of the acquiring corporation) of shares of another corporation, other than an exchange reorganization (subdivision (b) of Section 181)."
+    }
+  ],
+  "history": [
+    "Added by Stats. 1989, Ch. 1116, Sec. 4. Effective September 30, 1989."
+  ]
+}

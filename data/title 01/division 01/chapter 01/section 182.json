@@ -1,0 +1,34 @@
+{
+  "jurisdiction": "US-CA",
+  "provision": [
+    {
+      "subdivision": "code",
+      "number": "Corporations Code"
+    },
+    {
+      "subdivision": "title",
+      "number": "1"
+    },
+    {
+      "subdivision": "division",
+      "number": "1"
+    },
+    {
+      "subdivision": "chapter",
+      "number": "1"
+    },
+    {
+      "subdivision": "section",
+      "number": "182"
+    }
+  ],
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "“Reverse stock split” means the pro rata combination of all the outstanding shares of a class into a smaller number of shares of the same class by an amendment to the articles stating the effect on outstanding shares."
+    }
+  ],
+  "history": [
+    "Added by Stats. 1975, Ch. 682."
+  ]
+}

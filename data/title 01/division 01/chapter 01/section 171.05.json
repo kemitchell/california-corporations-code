@@ -1,0 +1,34 @@
+{
+  "jurisdiction": "US-CA",
+  "provision": [
+    {
+      "subdivision": "code",
+      "number": "Corporations Code"
+    },
+    {
+      "subdivision": "title",
+      "number": "1"
+    },
+    {
+      "subdivision": "division",
+      "number": "1"
+    },
+    {
+      "subdivision": "chapter",
+      "number": "1"
+    },
+    {
+      "subdivision": "section",
+      "number": "171.05"
+    }
+  ],
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "“Foreign limited partnership” means any limited partnership, including a limited liability limited partnership, formed under the laws of any state other than this state or of the District of Columbia or under the laws of a foreign country."
+    }
+  ],
+  "history": [
+    "Amended by Stats. 2006, Ch. 495, Sec. 5. Effective January 1, 2007."
+  ]
+}
