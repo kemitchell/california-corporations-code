@@ -1,0 +1,72 @@
+{
+  "jurisdiction": "US-CA",
+  "provision": [
+    {
+      "subdivision": "code",
+      "number": "Corporations Code"
+    },
+    {
+      "subdivision": "title",
+      "number": "2"
+    },
+    {
+      "subdivision": "chapter",
+      "number": "5"
+    },
+    {
+      "subdivision": "article",
+      "number": "2"
+    },
+    {
+      "subdivision": "section",
+      "number": "16204"
+    }
+  ],
+  "content": [
+    {
+      "number": "(a)",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Property is partnership property if acquired in the name of either of the following:"
+        },
+        {
+          "number": "(1)",
+          "content": "The partnership."
+        },
+        {
+          "number": "(2)",
+          "content": "One or more partners with an indication in the instrument transferring title to the property of the person’s capacity as a partner or of the existence of a partnership but without an indication of the name of the partnership."
+        }
+      ]
+    },
+    {
+      "number": "(b)",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Property is acquired in the name of the partnership by a transfer to either of the following:"
+        },
+        {
+          "number": "(1)",
+          "content": "The partnership in its name."
+        },
+        {
+          "number": "(2)",
+          "content": "One or more partners in their capacity as partners in the partnership, if the name of the partnership is indicated in the instrument transferring title to the property."
+        }
+      ]
+    },
+    {
+      "number": "(c)",
+      "content": "Property is presumed to be partnership property if purchased with partnership assets, even if not acquired in the name of the partnership or of one or more partners with an indication in the instrument transferring title to the property of the person’s capacity as a partner or of the existence of a partnership."
+    },
+    {
+      "number": "(d)",
+      "content": "Property acquired in the name of one or more of the partners, without an indication in the instrument transferring title to the property of the person’s capacity as a partner or of the existence of a partnership and without use of partnership assets, is presumed to be separate property, even if used for partnership purposes."
+    }
+  ],
+  "history": [
+    "Added by Stats. 1996, Ch. 1003, Sec. 2. Effective January 1, 1997."
+  ]
+}

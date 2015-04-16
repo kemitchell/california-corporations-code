@@ -1,0 +1,88 @@
+{
+  "jurisdiction": "US-CA",
+  "provision": [
+    {
+      "subdivision": "code",
+      "number": "Corporations Code"
+    },
+    {
+      "subdivision": "title",
+      "number": "2"
+    },
+    {
+      "subdivision": "chapter",
+      "number": "5"
+    },
+    {
+      "subdivision": "article",
+      "number": "2"
+    },
+    {
+      "subdivision": "section",
+      "number": "16202"
+    }
+  ],
+  "content": [
+    {
+      "number": "(a)",
+      "content": "Except as otherwise provided in subdivision (b), the association of two or more persons to carry on as coowners a business for profit forms a partnership, whether or not the persons intend to form a partnership."
+    },
+    {
+      "number": "(b)",
+      "content": "An association formed under a statute other than this chapter, a predecessor statute, or a comparable statute of another jurisdiction is not a partnership under this chapter."
+    },
+    {
+      "number": "(c)",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "In determining whether a partnership is formed, the following rules apply:"
+        },
+        {
+          "number": "(1)",
+          "content": "Joint tenancy, tenancy in common, tenancy by the entireties, joint property, common property, or part ownership does not by itself establish a partnership, even if the coowners share profits made by the use of the property."
+        },
+        {
+          "number": "(2)",
+          "content": "The sharing of gross returns does not by itself establish a partnership, even if the persons sharing them have a joint or common right or interest in property from which the returns are derived."
+        },
+        {
+          "number": "(3)",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "A person who receives a share of the profits of a business is presumed to be a partner in the business, unless the profits were received for any of the following reasons:"
+            },
+            {
+              "number": "(A)",
+              "content": "In payment of a debt by installments or otherwise."
+            },
+            {
+              "number": "(B)",
+              "content": "In payment for services as an independent contractor or of wages or other compensation to an employee."
+            },
+            {
+              "number": "(C)",
+              "content": "In payment of rent."
+            },
+            {
+              "number": "(D)",
+              "content": "In payment of an annuity or other retirement benefit to a beneficiary, representative, or designee of a deceased or retired partner."
+            },
+            {
+              "number": "(E)",
+              "content": "In payment of interest or other charge on a loan, even if the amount of payment varies with the profits of the business, including a direct or indirect present or future ownership of the collateral, or rights to income, proceeds, or increase in value derived from the collateral."
+            },
+            {
+              "number": "(F)",
+              "content": "In payment for the sale of the goodwill of a business or other property by installments or otherwise."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "history": [
+    "Added by Stats. 1996, Ch. 1003, Sec. 2. Effective January 1, 1997."
+  ]
+}
