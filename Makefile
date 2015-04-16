@@ -1,4 +1,13 @@
-all:
-	npm install
-	find data -iname "*.json" | xargs -t -I FILE ./node_modules/.bin/json -I -f FILE
-	find data -iname "*.json" | xargs -t -I FILE node ./build/tomarkdown.js FILE
+JSON_FILES = $(shell find data/ -type f -name '*.json')
+MARKDOWN_FILES = $(patsubst %.json, %.md, $(JSON_FILES))
+
+%.md : %.json
+	node ./node_modules/.bin/json -I -f "$<"
+	node ./build/tomarkdown.js "$<" > "$@"
+
+.PHONY: all clean
+
+all: $(MARKDOWN_FILES)
+
+clean:
+	find data -iname "*.md" | xargs rm
