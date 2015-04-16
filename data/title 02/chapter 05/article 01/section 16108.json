@@ -1,0 +1,30 @@
+{
+  "jurisdiction": "US-CA",
+  "provision": [
+    {
+      "subdivision": "code",
+      "number": "Corporations Code"
+    },
+    {
+      "subparagraph": "title",
+      "number": "2"
+    },
+    {
+      "subdivision": "chapter",
+      "number": "5"
+    },
+    {
+      "subdivision": "section",
+      "number": "16108"
+    }
+  ],
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Except with respect to the provisions of this chapter specifically relating to registered limited liability partnerships and foreign limited liability partnerships, this chapter shall be applied and construed to effectuate its general purpose to make uniform the law with respect to the subject of this chapter among states enacting it."
+    }
+  ],
+  "history": [
+    "Added by Stats. 1996, Ch. 1003, Sec. 2. Effective January 1, 1997."
+  ]
+}

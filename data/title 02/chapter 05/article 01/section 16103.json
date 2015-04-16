@@ -1,0 +1,92 @@
+{
+  "jurisdiction": "US-CA",
+  "provision": [
+    {
+      "subdivision": "code",
+      "number": "Corporations Code"
+    },
+    {
+      "subparagraph": "title",
+      "number": "2"
+    },
+    {
+      "subdivision": "chapter",
+      "number": "5"
+    },
+    {
+      "subdivision": "section",
+      "number": "16103"
+    }
+  ],
+  "content": [
+    {
+      "number": "(a)",
+      "content": "Except as otherwise provided in subdivision (b), relations among the partners and between the partners and the partnership are governed by the partnership agreement. To the extent the partnership agreement does not otherwise provide, this chapter governs relations among the partners and between the partners and the partnership."
+    },
+    {
+      "number": "(b)",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "The partnership agreement may not do any of the following:"
+        },
+        {
+          "number": "(1)",
+          "content": "Vary the rights and duties under Section 16105 except to eliminate the duty to provide copies of statements to all of the partners."
+        },
+        {
+          "number": "(2)",
+          "content": "Unreasonably restrict the right of access to books and records under subdivision (b) of Section 16403, or the right to be furnished with information under subdivision (c) of Section 16403."
+        },
+        {
+          "number": "(3)",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Eliminate the duty of loyalty under subdivision (b) of Section 16404 or paragraph (3) of subdivision (b) of Section 16603, but, if not manifestly unreasonable, may do either of the following:"
+            },
+            {
+              "number": "(A)",
+              "content": "The partnership agreement may identify specific types or categories of activities that do not violate the duty of loyalty."
+            },
+            {
+              "number": "(B)",
+              "content": "All of the partners or a number or percentage specified in the partnership agreement may authorize or ratify, after full disclosure of all material facts, a specific act or transaction that otherwise would violate the duty of loyalty."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": "(4)",
+      "content": "Unreasonably reduce the duty of care under subdivision (c) of Section 16404 or paragraph (3) of subdivision (b) of Section 16603."
+    },
+    {
+      "number": "(5)",
+      "content": "Eliminate the obligation of good faith and fair dealing under subdivision (d) of Section 16404, but the partnership agreement may prescribe the standards by which the performance of the obligation is to be measured, if the standards are not manifestly unreasonable."
+    },
+    {
+      "number": "(6)",
+      "content": "Vary the power to dissociate as a partner under subdivision (a) Section 16602, except to require the notice under paragraph (1) of Section 16601 to be in writing."
+    },
+    {
+      "number": "(7)",
+      "content": "Vary the right of a court to expel a partner in the events specified in paragraph (5) of Section 16601."
+    },
+    {
+      "number": "(8)",
+      "content": "Vary the requirement to wind up the partnership business in cases specified in paragraph (4), (5), or (6) of Section 16801."
+    },
+    {
+      "number": "(9)",
+      "content": "Restrict rights of third parties under this chapter."
+    },
+    {
+      "number": "(10)",
+      "content": "Vary the law applicable to a registered limited liability partnership under subdivision (b) of Section 16106."
+    }
+  ],
+  "history": [
+    "Added by Stats. 1996, Ch. 1003, Sec. 2. Effective January 1, 1997."
+  ]
+}

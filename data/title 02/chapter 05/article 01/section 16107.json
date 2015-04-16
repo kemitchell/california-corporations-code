@@ -1,0 +1,30 @@
+{
+  "jurisdiction": "US-CA",
+  "provision": [
+    {
+      "subdivision": "code",
+      "number": "Corporations Code"
+    },
+    {
+      "subparagraph": "title",
+      "number": "2"
+    },
+    {
+      "subdivision": "chapter",
+      "number": "5"
+    },
+    {
+      "subdivision": "section",
+      "number": "16107"
+    }
+  ],
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "A partnership governed by this chapter is subject to any amendment to or repeal of this chapter."
+    }
+  ],
+  "history": [
+    "Added by Stats. 1996, Ch. 1003, Sec. 2. Effective January 1, 1997."
+  ]
+}

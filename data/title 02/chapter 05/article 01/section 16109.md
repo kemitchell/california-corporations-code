@@ -1,0 +1,3 @@
+# Section 16109
+
+- The rights and duties of surviving partners, the legal representatives of deceased partners, the creditors of such partners, and the creditors of the partnership created by or defined in this chapter shall be given full force and effect notwithstanding any inconsistent provisions of the Probate Code, but nothing in this chapter shall otherwise affect any provision of the Probate Code.
