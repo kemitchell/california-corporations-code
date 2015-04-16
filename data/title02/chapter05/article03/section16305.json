@@ -1,0 +1,34 @@
+{
+  "jurisdiction": "US-CA",
+  "provision": [
+    {
+      "subdivision": "code",
+      "number": "Corporations Code"
+    },
+    {
+      "subdivision": "title",
+      "number": "2"
+    },
+    {
+      "subdivision": "chapter",
+      "number": "5"
+    },
+    {
+      "subdivision": "article",
+      "number": "3"
+    },
+    {
+      "subdivision": "section",
+      "number": "16305"
+    }
+  ],
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "A partner or other person named as a partner in a filed statement of partnership authority or in a list maintained by an agent pursuant to subdivision (b) of Section 16303 may file a statement of denial stating the name of the partnership as filed with the Secretary of State, any identification number issued by the Secretary of State, and the fact that is being denied, that may include denial of a person’s authority or status as a partner. A statement of denial is a limitation on authority as provided in subdivisions (d) and (e) of Section 16303."
+    }
+  ],
+  "history": [
+    "Added by Stats. 1996, Ch. 1003, Sec. 2. Effective January 1, 1997."
+  ]
+}
