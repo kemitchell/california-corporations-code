@@ -115,7 +115,6 @@
   },
   "required": [
     "content",
-    "heading",
     "history",
     "jurisdiction",
     "provision"

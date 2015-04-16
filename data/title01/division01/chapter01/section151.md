@@ -1,3 +1,3 @@
-# Section 152
+# Section 151
 
-- “Approved by (or approval of) the outstanding shares” means approved by the affirmative vote of a majority of the outstanding shares entitled to vote. Such approval shall include the affirmative vote of a majority of the outstanding shares of each class or series entitled, by any provision of the articles or of this division, to vote as a class or series on the subject matter being voted upon and shall also include the affirmative vote of such greater proportion (including all) of the outstanding shares of any class or series if such greater proportion is required by the articles or this division.
+- “Approved by (or approval of) the board” means approved or ratified by the vote of the board or by the vote of a committee authorized to exercise the powers of the board, except as to matters not within the competence of the committee under Section 311.

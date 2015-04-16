@@ -1,6 +1,5 @@
 /* jshint mocha: true */
 var Validator = require('jsonschema').Validator;
-var romanize = require('romanize');
 var path = require('path');
 var expect = require('chai').expect;
 var glob = require('glob');
@@ -23,7 +22,8 @@ describe('files', function() {
       });
 
       it('is correctly numbered', function() {
-        expect(json.provision[json.provision.length - 1].number)
+        var lastNumbering = json.provision[json.provision.length - 1];
+        expect(lastNumbering.subdivision + lastNumbering.number)
           .to.equal(parsedPath.base.replace('.json', ''));
       });
 
@@ -31,7 +31,7 @@ describe('files', function() {
         var dir = parsedPath.dir;
         var containingDir = dir.slice(dir.lastIndexOf(/\/|\\/) - 1);
         expect(json.provision[json.provision.length - 2].number)
-          .to.equal(romanize(parseInt(containingDir)));
+          .to.equal(parseInt(containingDir).toString());
       });
     });
   });
