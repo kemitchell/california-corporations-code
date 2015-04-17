@@ -1,6 +1,12 @@
 # Section 16111
 
-- (a) Except as provided in Section 16955.5, before January 1, 1999, this chapter governs only a partnership formed (1) on or after the effective date of this chapter, unless that partnership is continuing the business of a dissolved partnership under Section 15041, or (2) before the effective date of this chapter if that partnership elects, in the manner provided in its partnership agreement or by law for amending the partnership agreement, to be governed by this chapter.
+- (a) 
+
+  - Except as provided in Section 16955.5, before January 1, 1999, this chapter governs only a partnership formed
+
+  - (1) on or after the effective date of this chapter, unless that partnership is continuing the business of a dissolved partnership under Section 15041, or
+
+  - (2) before the effective date of this chapter if that partnership elects, in the manner provided in its partnership agreement or by law for amending the partnership agreement, to be governed by this chapter.
 
 - (b) On and after January 1, 1999, this chapter governs all partnerships.
 

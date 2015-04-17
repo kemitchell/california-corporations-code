@@ -20,7 +20,15 @@
 
   - (1) All obligations of the converting partnership for which the partner was personally liable before the conversion.
 
-  - (2) All obligations of the converted entity incurred after the conversion takes effect, but those obligations may be satisfied only out of property of the entity if (A) the converted other business entity is a limited partnership and the partner becomes a limited partner, (B) the converted other business entity is a limited liability company and the partner becomes a member, unless the articles of organization or the operating agreement of the limited liability company provide otherwise, or (C) the converted other business entity is a corporation and the partner becomes a shareholder.
+  - (2) 
+
+    - All obligations of the converted entity incurred after the conversion takes effect, but those obligations may be satisfied only out of property of the entity if
+
+    - (A) the converted other business entity is a limited partnership and the partner becomes a limited partner,
+
+    - (B) the converted other business entity is a limited liability company and the partner becomes a member, unless the articles of organization or the operating agreement of the limited liability company provide otherwise, or
+
+    - (C) the converted other business entity is a corporation and the partner becomes a shareholder.
 
 - (d) A partner of a partnership that converted from an other business entity is liable for any and all obligations of the converting other business entity for which the partner was personally liable before the conversion, but only to the extent the partner was liable for the obligation of the converting entity prior to the conversion.
 

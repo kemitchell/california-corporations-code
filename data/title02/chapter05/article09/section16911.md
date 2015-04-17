@@ -20,6 +20,14 @@
 
 - (d) The partners of a constituent partnership may in their discretion, abandon a merger, subject to the contractual rights, if any, of third parties, including other constituent partnerships and constituent other business entities, if the abandonment is approved by the partners of the constituent partnership in the same manner as required for approval of the original agreement of merger.
 
-- (e) An agreement of merger approved in accordance with subdivision (a) may (1) effect any amendment to the partnership agreement of any domestic constituent partnership or (2) effect the adoption of a new partnership agreement for a domestic constituent partnership if it is the surviving partnership in the merger. Any amendment to a partnership agreement or adoption of a new partnership agreement made pursuant to the foregoing sentence shall be effective at the effective time or date of the merger.
+- (e) 
+
+  - An agreement of merger approved in accordance with subdivision (a) may
+
+  - (1) effect any amendment to the partnership agreement of any domestic constituent partnership or
+
+  - (2) effect the adoption of a new partnership agreement for a domestic constituent partnership if it is the surviving partnership in the merger.
+
+  - Any amendment to a partnership agreement or adoption of a new partnership agreement made pursuant to the foregoing sentence shall be effective at the effective time or date of the merger.
 
 - (f) The surviving partnership or surviving other business entity shall keep the agreement of merger at the principal place of business of the surviving entity if the surviving entity is a partnership or a foreign other business entity, at the office referred to in Section 1500 if the surviving entity is a domestic corporation, at the office referred to in subdivision (a) of Section 15901.14 if the surviving entity is a domestic limited partnership or at the office referred to in Section 17701.13 if the surviving entity is a domestic limited liability company and, upon the request of a partner of a constituent partnership or a holder of interests or other securities of a constituent other business entity, the authorized person on behalf of the partnership or the surviving other business entity shall promptly deliver to the partner or the holder of interests or other securities, at the expense of the surviving partnership or surviving other business entity, a copy of the agreement of merger. A waiver by a partner or holder of interests or other securities of the rights provided in this subdivision shall be unenforceable.

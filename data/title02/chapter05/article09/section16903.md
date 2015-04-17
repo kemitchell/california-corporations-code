@@ -26,4 +26,12 @@
 
 - (f) The partners of a converting partnership may, at any time before the conversion is effective, in their discretion, abandon a conversion, without further approval by the partners, in the same manner, and by the same number or percentage of partners, as was required for approval of the original plan of conversion at any time before the conversion is effective, subject to the contractual rights of third parties.
 
-- (g) The converted entity shall keep the plan of conversion at: (1) the principal place of business of the converted entity, if the converted entity is a foreign other business entity or a corporation; or (2) the office at which records are to be kept under Section 15614 or 15901.14 if the converted entity is a domestic limited partnership, or at the office at which records are to be kept under Section 17701.13 if the converted entity is a domestic limited liability company. Upon the request of a partner of a converting partnership, the authorized person on behalf of the converted entity shall promptly deliver to the partner or the holder of interests or other securities, at the expense of the converted entity, a copy of the plan of conversion. A waiver by a partner of the rights provided in this subdivision shall be unenforceable.
+- (g) 
+
+  - The converted entity shall keep the plan of conversion at:
+
+  - (1) the principal place of business of the converted entity, if the converted entity is a foreign other business entity or a corporation; or
+
+  - (2) the office at which records are to be kept under Section 15614 or 15901.14 if the converted entity is a domestic limited partnership, or at the office at which records are to be kept under Section 17701.13 if the converted entity is a domestic limited liability company.
+
+  - Upon the request of a partner of a converting partnership, the authorized person on behalf of the converted entity shall promptly deliver to the partner or the holder of interests or other securities, at the expense of the converted entity, a copy of the plan of conversion. A waiver by a partner of the rights provided in this subdivision shall be unenforceable.

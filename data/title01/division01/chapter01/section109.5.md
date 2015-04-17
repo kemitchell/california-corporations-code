@@ -2,7 +2,13 @@
 
 - (a) Provisions of the articles described in paragraph (3) of subdivision (g) of Section 202 and subdivisions (a) and (b) of Section 204 may be made dependent upon facts ascertainable outside the articles, if the manner in which those facts shall operate upon those provisions is clearly and expressly set forth in the articles. Similarly, any of the terms of an agreement of merger pursuant to Section 1101 may be made dependent upon facts ascertainable outside that agreement, if the manner in which those facts shall operate upon the terms of the agreement is clearly and expressly set forth in the agreement of merger.
 
-- (b) Notwithstanding subdivision (a), when any provisions or terms of articles or an agreement of merger are made dependent upon facts ascertainable outside the filed instrument through a reference to an agreement or similar document, the corporation filing that instrument shall (1) maintain at its principal executive office a copy of any such agreement or document and all amendments and (2) provide to its shareholders, in the case of articles, or to shareholders of any constituent corporation, in the case of an agreement of merger, a copy of them upon written request and without charge.
+- (b) 
+
+  - Notwithstanding subdivision (a), when any provisions or terms of articles or an agreement of merger are made dependent upon facts ascertainable outside the filed instrument through a reference to an agreement or similar document, the corporation filing that instrument shall
+
+  - (1) maintain at its principal executive office a copy of any such agreement or document and all amendments and
+
+  - (2) provide to its shareholders, in the case of articles, or to shareholders of any constituent corporation, in the case of an agreement of merger, a copy of them upon written request and without charge.
 
 - (c) 
 

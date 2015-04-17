@@ -16,4 +16,10 @@
 
   - (2) A merger in which a domestic other business entity is a party to the merger shall be effective upon the filing of the certificate of merger in the office of the Secretary of State.
 
-- (b) For all mergers in which a certificate of merger is required to be filed under Section 16915, a copy of the certificate of merger duly certified by the Secretary of State is conclusive evidence of the merger of (A) the constituent partnerships (either by themselves or together with constituent other business entities) into the surviving other business entity, or (B) the constituent partnerships or the constituent other business entities, or both, into the surviving partnership.
+- (b) 
+
+  - For all mergers in which a certificate of merger is required to be filed under Section 16915, a copy of the certificate of merger duly certified by the Secretary of State is conclusive evidence of the merger of
+
+  - (A) the constituent partnerships (either by themselves or together with constituent other business entities) into the surviving other business entity, or
+
+  - (B) the constituent partnerships or the constituent other business entities, or both, into the surviving partnership.
