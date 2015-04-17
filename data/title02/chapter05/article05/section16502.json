@@ -1,0 +1,34 @@
+{
+  "jurisdiction": "US-CA",
+  "provision": [
+    {
+      "subdivision": "code",
+      "number": "Corporations Code"
+    },
+    {
+      "subdivision": "title",
+      "number": "2"
+    },
+    {
+      "subdivision": "chapter",
+      "number": "5"
+    },
+    {
+      "subdivision": "article",
+      "number": "5"
+    },
+    {
+      "subdivision": "section",
+      "number": "16502"
+    }
+  ],
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "The only transferable interest of a partner in the partnership is the partner’s share of the profits and losses of the partnership and the partner’s right to receive distributions. The interest is personal property."
+    }
+  ],
+  "history": [
+    "Added by Stats. 1996, Ch. 1003, Sec. 2. Effective January 1, 1997."
+  ]
+}

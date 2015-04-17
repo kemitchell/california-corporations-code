@@ -1,0 +1,34 @@
+{
+  "jurisdiction": "US-CA",
+  "provision": [
+    {
+      "subdivision": "code",
+      "number": "Corporations Code"
+    },
+    {
+      "subdivision": "title",
+      "number": "2"
+    },
+    {
+      "subdivision": "chapter",
+      "number": "5"
+    },
+    {
+      "subdivision": "article",
+      "number": "5"
+    },
+    {
+      "subdivision": "section",
+      "number": "16501"
+    }
+  ],
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "A partner is not a coowner of partnership property and has no interest in partnership property that can be transferred, either voluntarily or involuntarily."
+    }
+  ],
+  "history": [
+    "Added by Stats. 1996, Ch. 1003, Sec. 2. Effective January 1, 1997."
+  ]
+}
