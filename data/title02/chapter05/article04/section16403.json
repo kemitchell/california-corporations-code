@@ -1,0 +1,55 @@
+{
+  "jurisdiction": "US-CA",
+  "provision": [
+    {
+      "subdivision": "code",
+      "number": "Corporations Code"
+    },
+    {
+      "subdivision": "title",
+      "number": "2"
+    },
+    {
+      "subdivision": "chapter",
+      "number": "5"
+    },
+    {
+      "subdivision": "article",
+      "number": "4"
+    },
+    {
+      "subdivision": "section",
+      "number": "16403"
+    }
+  ],
+  "content": [
+    {
+      "number": "(a)",
+      "content": "A partnership shall keep its books and records, if any, in writing or in any other form capable of being converted into clearly legible tangible form, at its chief executive office."
+    },
+    {
+      "number": "(b)",
+      "content": "A partnership shall provide partners and their agents and attorneys access to its books and records. It shall provide former partners and their agents and attorneys access to books and records pertaining to the period during which they were partners. The right of access provides the opportunity to inspect and copy books and records during ordinary business hours. A partnership may impose a reasonable charge, covering the costs of labor and material, for copies of documents furnished."
+    },
+    {
+      "number": "(c)",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Each partner and the partnership shall furnish to a partner, and to the legal representative of a deceased partner or partner under legal disability, both of the following, which may be transmitted by electronic transmission by the partnership (subdivision (4) of Section 16101):"
+        },
+        {
+          "number": "(1)",
+          "content": "Without demand, any information concerning the partnership’s business and affairs reasonably required for the proper exercise of the partner’s rights and duties under the partnership agreement or this chapter; and"
+        },
+        {
+          "number": "(2)",
+          "content": "On demand, any other information concerning the partnership’s business and affairs, except to the extent the demand or the information demanded is unreasonable or otherwise improper under the circumstances."
+        }
+      ]
+    }
+  ],
+  "history": [
+    "Amended by Stats. 2004, Ch. 254, Sec. 45. Effective January 1, 2005."
+  ]
+}
