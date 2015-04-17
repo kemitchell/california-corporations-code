@@ -1,0 +1,42 @@
+{
+  "jurisdiction": "US-CA",
+  "provision": [
+    {
+      "subdivision": "code",
+      "number": "Corporations Code"
+    },
+    {
+      "subdivision": "title",
+      "number": "2"
+    },
+    {
+      "subdivision": "chapter",
+      "number": "5"
+    },
+    {
+      "subdivision": "article",
+      "number": "8"
+    },
+    {
+      "subdivision": "section",
+      "number": "16804"
+    }
+  ],
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Subject to Section 16805, a partnership is bound by a partner’s act after dissolution that is either of the following:"
+    },
+    {
+      "number": "(1)",
+      "content": "Appropriate for winding up the partnership business."
+    },
+    {
+      "number": "(2)",
+      "content": "Would have bound the partnership under Section 16301 before dissolution, if the other party to the transaction did not have notice of the dissolution."
+    }
+  ],
+  "history": [
+    "Added by Stats. 1996, Ch. 1003, Sec. 2. Effective January 1, 1997."
+  ]
+}
