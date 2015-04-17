@@ -6,8 +6,9 @@ var glob = require('glob');
 var jsonFiles = glob.sync('data/**/*.json');
 
 var validator = new Validator();
-validator.addSchema(require('../schemas/paragraph'), '/paragraph');
+validator.addSchema(require('../schemas/form'), '/form');
 validator.addSchema(require('../schemas/item'), '/item');
+validator.addSchema(require('../schemas/paragraph'), '/paragraph');
 var schema = require('../schemas/provision.json');
 
 describe('files', function() {

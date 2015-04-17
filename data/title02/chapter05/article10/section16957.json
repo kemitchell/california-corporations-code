@@ -1,0 +1,55 @@
+{
+  "jurisdiction": "US-CA",
+  "provision": [
+    {
+      "subdivision": "code",
+      "number": "Corporations Code"
+    },
+    {
+      "subdivision": "title",
+      "number": "2"
+    },
+    {
+      "subdivision": "chapter",
+      "number": "5"
+    },
+    {
+      "subdivision": "article",
+      "number": "10"
+    },
+    {
+      "subdivision": "section",
+      "number": "16957"
+    }
+  ],
+  "content": [
+    {
+      "number": "(a)",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "No distribution shall be made by a registered limited liability partnership if, after giving effect to the distribution:"
+        },
+        {
+          "number": "(1)",
+          "content": "The registered limited liability partnership would not be able to pay its debts as they become due in the usual course of business."
+        },
+        {
+          "number": "(2)",
+          "content": "The registered limited liability partnership’s total assets would be less than the sum of its total liabilities plus the amount that would be needed, if the registered limited liability partnership were to be dissolved at the time of the distribution, to satisfy the preferential rights of other partners upon dissolution that are superior to the rights of the partners receiving the distribution."
+        }
+      ]
+    },
+    {
+      "number": "(b)",
+      "content": "A cause of action with respect to an obligation to return a distribution is extinguished unless the action is brought within four years after the distribution is made."
+    },
+    {
+      "number": "(c)",
+      "content": "A distribution for purposes of this section means the transfer of money or property by a registered limited liability partnership to its partners without consideration."
+    }
+  ],
+  "history": [
+    "Added by Stats. 1996, Ch. 1003, Sec. 2. Effective January 1, 1997."
+  ]
+}

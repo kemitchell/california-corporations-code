@@ -14,7 +14,13 @@ var renderElement = function(depth, element) {
     if (element.type === 'blockquote') {
       out.write('> ');
     }
-    out.write(element.text);
+    if (element.type === 'form') {
+      element.lines.forEach(function(line) {
+        out.write('> ' + line);
+      });
+    } else {
+      out.write(element.text);
+    }
   } else if ('number' in element) {
     out.write('\n\n' + indentation(depth));
     out.write('- ' + element.number.replace('.', '\\.') + ' ');

@@ -1,0 +1,34 @@
+{
+  "jurisdiction": "US-CA",
+  "provision": [
+    {
+      "subdivision": "code",
+      "number": "Corporations Code"
+    },
+    {
+      "subdivision": "title",
+      "number": "2"
+    },
+    {
+      "subdivision": "chapter",
+      "number": "5"
+    },
+    {
+      "subdivision": "article",
+      "number": "10"
+    },
+    {
+      "subdivision": "section",
+      "number": "16951"
+    }
+  ],
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "For purposes of this chapter, the only types of limited liability partnerships that shall be recognized are a registered limited liability partnership and a foreign limited liability partnership, as defined in Section 16101. No registered limited liability partnership or foreign limited liability partnership may render professional limited liability partnership services in this state except through licensed persons."
+    }
+  ],
+  "history": [
+    "Added by Stats. 1996, Ch. 1003, Sec. 2. Effective January 1, 1997."
+  ]
+}

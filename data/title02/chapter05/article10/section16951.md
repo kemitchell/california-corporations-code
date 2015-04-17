@@ -1,0 +1,3 @@
+# Section 16951
+
+- For purposes of this chapter, the only types of limited liability partnerships that shall be recognized are a registered limited liability partnership and a foreign limited liability partnership, as defined in Section 16101. No registered limited liability partnership or foreign limited liability partnership may render professional limited liability partnership services in this state except through licensed persons.

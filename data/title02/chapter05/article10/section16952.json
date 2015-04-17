@@ -1,0 +1,34 @@
+{
+  "jurisdiction": "US-CA",
+  "provision": [
+    {
+      "subdivision": "code",
+      "number": "Corporations Code"
+    },
+    {
+      "subdivision": "title",
+      "number": "2"
+    },
+    {
+      "subdivision": "chapter",
+      "number": "5"
+    },
+    {
+      "subdivision": "article",
+      "number": "10"
+    },
+    {
+      "subdivision": "section",
+      "number": "16952"
+    }
+  ],
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "The name of a registered limited liability partnership shall contain the words “Registered Limited Liability Partnership” or “Limited Liability Partnership” or one of the abbreviations “L.L.P.,” “LLP,” “R.L.L.P.,” or “RLLP” as the last words or letters of its name."
+    }
+  ],
+  "history": [
+    "Added by Stats. 1996, Ch. 1003, Sec. 2. Effective January 1, 1997."
+  ]
+}
