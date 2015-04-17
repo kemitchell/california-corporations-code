@@ -1,0 +1,34 @@
+{
+  "jurisdiction": "US-CA",
+  "provision": [
+    {
+      "subdivision": "code",
+      "number": "Corporations Code"
+    },
+    {
+      "subdivision": "title",
+      "number": "2"
+    },
+    {
+      "subdivision": "chapter",
+      "number": "5"
+    },
+    {
+      "subdivision": "article",
+      "number": "7"
+    },
+    {
+      "subdivision": "section",
+      "number": "16705"
+    }
+  ],
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Continued use of a partnership name, or a dissociated partner’s name as part thereof, by partners continuing the business does not of itself make the dissociated partner liable for an obligation of the partners or the partnership continuing the business."
+    }
+  ],
+  "history": [
+    "Added by Stats. 1996, Ch. 1003, Sec. 2. Effective January 1, 1997."
+  ]
+}
