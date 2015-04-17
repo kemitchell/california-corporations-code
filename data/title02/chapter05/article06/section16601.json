@@ -1,0 +1,150 @@
+{
+  "jurisdiction": "US-CA",
+  "provision": [
+    {
+      "subdivision": "code",
+      "number": "Corporations Code"
+    },
+    {
+      "subdivision": "title",
+      "number": "2"
+    },
+    {
+      "subdivision": "chapter",
+      "number": "5"
+    },
+    {
+      "subdivision": "article",
+      "number": "6"
+    },
+    {
+      "subdivision": "section",
+      "number": "16601"
+    }
+  ],
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "A partner is dissociated from a partnership upon the occurrence of any of the following events:"
+    },
+    {
+      "number": "(1)",
+      "content": "The partnership’s having notice of the partner’s express will to withdraw as a partner or on a later date specified by the partner."
+    },
+    {
+      "number": "(2)",
+      "content": "An event agreed to in the partnership agreement as causing the partner’s dissociation."
+    },
+    {
+      "number": "(3)",
+      "content": "The partner’s expulsion pursuant to the partnership agreement."
+    },
+    {
+      "number": "(4)",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "The partner’s expulsion by the unanimous vote of the other partners if any of the following apply:"
+        },
+        {
+          "number": "(A)",
+          "content": "It is unlawful to carry on the partnership business with that partner."
+        },
+        {
+          "number": "(B)",
+          "content": "There has been a transfer of all or substantially all of that partner’s transferable interest in the partnership, other than a transfer for security purposes, or a court order charging the partner’s interest, that has not been foreclosed."
+        },
+        {
+          "number": "(C)",
+          "content": "Within 90 days after the partnership notifies a corporate partner that it will be expelled because it has filed a certificate of dissolution or the equivalent, its charter has been revoked, or its right to conduct business has been suspended by the jurisdiction of its incorporation, there is no revocation of the certificate of dissolution or no reinstatement of its charter or its right to conduct business."
+        },
+        {
+          "number": "(D)",
+          "content": "A partnership, limited partnership, or limited liability company that is a partner has been dissolved and its business is being wound up."
+        }
+      ]
+    },
+    {
+      "number": "(5)",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "On application by the partnership or another partner, the partner’s expulsion by judicial determination because of any of the following:"
+        },
+        {
+          "number": "(A)",
+          "content": "The partner engaged in wrongful conduct that adversely and materially affected the partnership business."
+        },
+        {
+          "number": "(B)",
+          "content": "The partner willfully or persistently committed a material breach of the partnership agreement or of a duty owed to the partnership or the other partners under Section 16404."
+        },
+        {
+          "number": "(C)",
+          "content": "The partner engaged in conduct relating to the partnership business that makes it not reasonably practicable to carry on the business in partnership with the partner."
+        }
+      ]
+    },
+    {
+      "number": "(6)",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "The partner’s act or failure to act in any of the following instances:"
+        },
+        {
+          "number": "(A)",
+          "content": "By becoming a debtor in bankruptcy."
+        },
+        {
+          "number": "(B)",
+          "content": "By executing an assignment for the benefit of creditors."
+        },
+        {
+          "number": "(C)",
+          "content": "By seeking, consenting to, or acquiescing in the appointment of a trustee, receiver, or liquidator of that partner or of all or substantially all of that partner’s property."
+        },
+        {
+          "number": "(D)",
+          "content": "By failing, within 90 days after the appointment, to have vacated or stayed the appointment of a trustee, receiver, or liquidator of the partner or of all or substantially all of the partner’s property obtained without the partner’s consent or acquiescence, or failing within 90 days after the expiration of a stay to have the appointment vacated."
+        }
+      ]
+    },
+    {
+      "number": "(7)",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "In the case of a partner who is an individual, by any of the following:"
+        },
+        {
+          "number": "(A)",
+          "content": "The partner’s death."
+        },
+        {
+          "number": "(B)",
+          "content": "The appointment of a guardian or general conservator for the partner."
+        },
+        {
+          "number": "(C)",
+          "content": "A judicial determination that the partner has otherwise become incapable of performing the partner’s duties under the partnership agreement."
+        }
+      ]
+    },
+    {
+      "number": "(8)",
+      "content": "In the case of a partner that is a trust or is acting as a partner by virtue of being a trustee of a trust, distribution of the trust’s entire transferable interest in the partnership, but not merely by reason of the substitution of a successor trustee."
+    },
+    {
+      "number": "(9)",
+      "content": "In the case of a partner that is an estate or is acting as a partner by virtue of being a personal representative of an estate, distribution of the estate’s entire transferable interest in the partnership, but not merely by reason of the substitution of a successor personal representative."
+    },
+    {
+      "number": "(10)",
+      "content": "Termination of a partner who is not an individual, partnership, corporation, trust, or estate."
+    }
+  ],
+  "history": [
+    "Added by Stats. 1996, Ch. 1003, Sec. 2. Effective January 1, 1997."
+  ]
+}
