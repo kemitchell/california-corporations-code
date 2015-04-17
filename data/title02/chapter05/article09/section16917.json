@@ -1,0 +1,34 @@
+{
+  "jurisdiction": "US-CA",
+  "provision": [
+    {
+      "subdivision": "code",
+      "number": "Corporations Code"
+    },
+    {
+      "subdivision": "title",
+      "number": "2"
+    },
+    {
+      "subdivision": "chapter",
+      "number": "5"
+    },
+    {
+      "subdivision": "article",
+      "number": "9"
+    },
+    {
+      "subdivision": "section",
+      "number": "16917"
+    }
+  ],
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "This article is not exclusive. Partnerships, other than limited liability partnerships, may be converted or merged in any other manner provided by law."
+    }
+  ],
+  "history": [
+    "Added by Stats. 1996, Ch. 1003, Sec. 2. Effective January 1, 1997."
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "jurisdiction": "US-CA",
+  "provision": [
+    {
+      "subdivision": "code",
+      "number": "Corporations Code"
+    },
+    {
+      "subdivision": "title",
+      "number": "2"
+    },
+    {
+      "subdivision": "chapter",
+      "number": "5"
+    },
+    {
+      "subdivision": "article",
+      "number": "9"
+    },
+    {
+      "subdivision": "section",
+      "number": "16904"
+    }
+  ],
+  "content": [
+    {
+      "number": "(a)",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "A conversion into a domestic other business entity shall become effective upon the earliest date that all of the following shall have occurred:"
+        },
+        {
+          "number": "(1)",
+          "content": "The approval of the plan of conversion by the partners of the converting partnership as provided in Section 16903."
+        },
+        {
+          "number": "(2)",
+          "content": "The filing of all documents required by law to create the converted other business entity, which documents shall also contain a statement of conversion, if required under Section 16906."
+        },
+        {
+          "number": "(3)",
+          "content": "The effective date, if set forth in the plan of conversion, shall have occurred."
+        }
+      ]
+    },
+    {
+      "number": "(b)",
+      "content": "A copy of the certificate of limited partnership, articles of organization, or articles of incorporation, complying with Section 16906, if applicable, duly certified by the Secretary of State, is conclusive evidence of the conversion of the partnership."
+    }
+  ],
+  "history": [
+    "Amended by Stats. 2002, Ch. 480, Sec. 17. Effective January 1, 2003."
+  ]
+}

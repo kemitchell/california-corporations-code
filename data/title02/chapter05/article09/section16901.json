@@ -1,0 +1,94 @@
+{
+  "jurisdiction": "US-CA",
+  "provision": [
+    {
+      "subdivision": "code",
+      "number": "Corporations Code"
+    },
+    {
+      "subdivision": "title",
+      "number": "2"
+    },
+    {
+      "subdivision": "chapter",
+      "number": "5"
+    },
+    {
+      "subdivision": "article",
+      "number": "9"
+    },
+    {
+      "subdivision": "section",
+      "number": "16901"
+    }
+  ],
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "In this article, the following terms have the following meanings:"
+    },
+    {
+      "number": "(1)",
+      "content": "“Constituent other business entity” means any other business entity that is merged with or into one or more partnerships and includes a surviving other business entity."
+    },
+    {
+      "number": "(2)",
+      "content": "“Constituent partnership” means a partnership that is merged with or into one or more other partnerships or other business entities and includes a surviving partnership."
+    },
+    {
+      "number": "(3)",
+      "content": "“Disappearing other business entity” means a constituent other business entity that is not the surviving other business entity."
+    },
+    {
+      "number": "(4)",
+      "content": "“Disappearing partnership” means a constituent partnership that is not the surviving partnership."
+    },
+    {
+      "number": "(5)",
+      "content": "“Domestic” means organized under the laws of this state when used in relation to any partnership, other business entity, or person (other than an individual)."
+    },
+    {
+      "number": "(6)",
+      "content": "“Foreign other business entity” means any other business entity formed under the laws of any state other than this state or under the laws of the United States or of a foreign country."
+    },
+    {
+      "number": "(7)",
+      "content": "“Foreign partnership” means a partnership formed under the laws of any state other than this state or under the laws of a foreign country."
+    },
+    {
+      "number": "(8)",
+      "content": "“General partner” means a partner in a partnership and a general partner in a limited partnership."
+    },
+    {
+      "number": "(9)",
+      "content": "“Limited liability company” means a limited liability company created under Title 2.6 (commencing with Section 17701.01), or comparable law of another jurisdiction."
+    },
+    {
+      "number": "(10)",
+      "content": "“Limited partner” means a limited partner in a limited partnership."
+    },
+    {
+      "number": "(11)",
+      "content": "“Limited partnership” means a limited partnership created under Chapter 3 (commencing with Section 15611) or Chapter 5.5 (commencing with Section 15900), predecessor law, or comparable law of another jurisdiction."
+    },
+    {
+      "number": "(12)",
+      "content": "“Other business entity” means a limited partnership, limited liability company, corporation, business trust, real estate investment trust, or an unincorporated association (other than a nonprofit association), but excluding a partnership."
+    },
+    {
+      "number": "(13)",
+      "content": "“Partner” includes both a general partner and a limited partner."
+    },
+    {
+      "number": "(14)",
+      "content": "“Surviving other business entity” means an other business entity into which one or more partnerships are merged."
+    },
+    {
+      "number": "(15)",
+      "content": "“Surviving partnership” means a partnership into which one or more other partnerships or other business entities are merged."
+    }
+  ],
+  "history": [
+    "Amended by Stats. 2014, Ch. 64, Sec. 6. Effective January 1, 2015."
+  ]
+}
