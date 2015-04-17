@@ -65,7 +65,24 @@
         },
         {
           "number": "(2)",
-          "content": "All obligations of the converted entity incurred after the conversion takes effect, but those obligations may be satisfied only out of property of the entity if (A) the converted other business entity is a limited partnership and the partner becomes a limited partner, (B) the converted other business entity is a limited liability company and the partner becomes a member, unless the articles of organization or the operating agreement of the limited liability company provide otherwise, or (C) the converted other business entity is a corporation and the partner becomes a shareholder."
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "All obligations of the converted entity incurred after the conversion takes effect, but those obligations may be satisfied only out of property of the entity if"
+            },
+            {
+              "number": "(A)",
+              "content": "the converted other business entity is a limited partnership and the partner becomes a limited partner,"
+            },
+            {
+              "number": "(B)",
+              "content": "the converted other business entity is a limited liability company and the partner becomes a member, unless the articles of organization or the operating agreement of the limited liability company provide otherwise, or"
+            },
+            {
+              "number": "(C)",
+              "content": "the converted other business entity is a corporation and the partner becomes a shareholder."
+            }
+          ]
         }
       ]
     },

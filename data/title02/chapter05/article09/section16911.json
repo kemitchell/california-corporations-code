@@ -66,7 +66,24 @@
     },
     {
       "number": "(e)",
-      "content": "An agreement of merger approved in accordance with subdivision (a) may (1) effect any amendment to the partnership agreement of any domestic constituent partnership or (2) effect the adoption of a new partnership agreement for a domestic constituent partnership if it is the surviving partnership in the merger. Any amendment to a partnership agreement or adoption of a new partnership agreement made pursuant to the foregoing sentence shall be effective at the effective time or date of the merger."
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "An agreement of merger approved in accordance with subdivision (a) may"
+        },
+        {
+          "number": "(1)",
+          "content": "effect any amendment to the partnership agreement of any domestic constituent partnership or"
+        },
+        {
+          "number": "(2)",
+          "content": "effect the adoption of a new partnership agreement for a domestic constituent partnership if it is the surviving partnership in the merger."
+        },
+        {
+          "type": "paragraph",
+          "text": "Any amendment to a partnership agreement or adoption of a new partnership agreement made pursuant to the foregoing sentence shall be effective at the effective time or date of the merger."
+        }
+      ]
     },
     {
       "number": "(f)",

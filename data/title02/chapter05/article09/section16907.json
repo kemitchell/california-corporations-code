@@ -25,7 +25,24 @@
   "content": [
     {
       "number": "(a)",
-      "content": "Whenever a partnership or other business entity having any real property in this state converts into a partnership or an other business entity pursuant to the laws of this state or of the state or place in which the other business entity was organized, and the laws of the state or place of organization (including this state) of the converting partnership or other business entity provide substantially that the conversion of a converting entity vests in the converted partnership or other business entity all the real property of the converting partnership or converting other business entity, the filing for record in the office of the county recorder of any county in this state in which any of the real property of the converting partnership or converting other business entity is located of either (1) a certificate of conversion or a certificate of limited partnership, articles of organization, or articles of incorporation, complying with Section 16906, in the form prescribed by the Secretary of State, certified by the Secretary of State, or (2) a copy of a certificate of conversion or a certificate of limited partnership, articles of organization, articles or certificate of incorporation, or other certificate evidencing the creation of a foreign other business entity by conversion, containing a statement of conversion, certified by the Secretary of State or an authorized public official of the state or place pursuant to the laws of which the conversion is effected, shall evidence record ownership in the converted partnership or converted other business entity of all interest of the converting partnership or converting other business entity in and to the real property located in that county."
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Whenever a partnership or other business entity having any real property in this state converts into a partnership or an other business entity pursuant to the laws of this state or of the state or place in which the other business entity was organized, and the laws of the state or place of organization (including this state) of the converting partnership or other business entity provide substantially that the conversion of a converting entity vests in the converted partnership or other business entity all the real property of the converting partnership or converting other business entity, the filing for record in the office of the county recorder of any county in this state in which any of the real property of the converting partnership or converting other business entity is located of either"
+        },
+        {
+          "number": "(1)",
+          "content": "a certificate of conversion or a certificate of limited partnership, articles of organization, or articles of incorporation, complying with Section 16906, in the form prescribed by the Secretary of State, certified by the Secretary of State, or"
+        },
+        {
+          "number": "(2)",
+          "content": "a copy of a certificate of conversion or a certificate of limited partnership, articles of organization, articles or certificate of incorporation, or other certificate evidencing the creation of a foreign other business entity by conversion, containing a statement of conversion, certified by the Secretary of State or an authorized public official of the state or place pursuant to the laws of which the conversion is effected,"
+        },
+        {
+          "type": "paragraph",
+          "text": "shall evidence record ownership in the converted partnership or converted other business entity of all interest of the converting partnership or converting other business entity in and to the real property located in that county."
+        }
+      ]
     },
     {
       "number": "(b)",

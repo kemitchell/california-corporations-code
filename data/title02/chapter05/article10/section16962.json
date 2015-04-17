@@ -29,7 +29,24 @@
     },
     {
       "number": "(b)",
-      "content": "In addition to service that may be made as provided in Section 416.40 of the Code of Civil Procedure, delivery by hand of a copy of any process against a registered limited liability partnership or foreign limited liability partnership registered under Section 16959 (1) to any natural person designated by it as agent or (2), if a corporate agent has been designated, to any person named in the latest certificate of the corporate agent filed pursuant to Section 1505 at the office of that corporate agent shall constitute valid service on the registered limited liability partnership or foreign limited liability partnership."
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "In addition to service that may be made as provided in Section 416.40 of the Code of Civil Procedure, delivery by hand of a copy of any process against a registered limited liability partnership or foreign limited liability partnership registered under Section 16959"
+        },
+        {
+          "number": "(1)",
+          "content": "to any natural person designated by it as agent or"
+        },
+        {
+          "number": "(2),",
+          "content": "if a corporate agent has been designated, to any person named in the latest certificate of the corporate agent filed pursuant to Section 1505 at the office of that corporate agent"
+        },
+        {
+          "type": "paragraph",
+          "text": "shall constitute valid service on the registered limited liability partnership or foreign limited liability partnership."
+        }
+      ]
     },
     {
       "number": "(c)",

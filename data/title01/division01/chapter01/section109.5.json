@@ -29,7 +29,20 @@
     },
     {
       "number": "(b)",
-      "content": "Notwithstanding subdivision (a), when any provisions or terms of articles or an agreement of merger are made dependent upon facts ascertainable outside the filed instrument through a reference to an agreement or similar document, the corporation filing that instrument shall (1) maintain at its principal executive office a copy of any such agreement or document and all amendments and (2) provide to its shareholders, in the case of articles, or to shareholders of any constituent corporation, in the case of an agreement of merger, a copy of them upon written request and without charge."
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Notwithstanding subdivision (a), when any provisions or terms of articles or an agreement of merger are made dependent upon facts ascertainable outside the filed instrument through a reference to an agreement or similar document, the corporation filing that instrument shall"
+        },
+        {
+          "number": "(1)",
+          "content": "maintain at its principal executive office a copy of any such agreement or document and all amendments and"
+        },
+        {
+          "number": "(2)",
+          "content": "provide to its shareholders, in the case of articles, or to shareholders of any constituent corporation, in the case of an agreement of merger, a copy of them upon written request and without charge."
+        }
+      ]
     },
     {
       "number": "(c)",
